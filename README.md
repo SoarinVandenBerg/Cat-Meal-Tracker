@@ -22,7 +22,7 @@ To make this for yourself, you'll need:\
 Print the parts with these settings:\
 -A nozzle size of 0.4 or smaller\
 -Infill of 10% or higher\
--Support at 75 degrees\
+-Support at 75 degrees
 
 Assembly:\
     1. Add magnets in all the holes, with a little dot of superglue at the bottom of each hole (make sure they're in the right direction!)\
