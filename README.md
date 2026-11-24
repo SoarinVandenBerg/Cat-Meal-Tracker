@@ -24,12 +24,13 @@ I used Tinkercad to make this 3D model, and no problems arose!
 -Infill of 10% or higher\
 -Support at 75 degrees
 
-### Assembly:
-    1. Add magnets in all the holes, with a little dot of superglue at the bottom of each hole (make sure they're in the right direction!)\
-    2. Write the time that your cat should be fed at on the tiles and they should snap into place on the suitable holes in the top piece\
-    3. Assemble the rest of the pieces! They should snap together and be pretty intuitive where they go.\
-    4. Attach it to any magnetic surface of your choice!
-    ![Assembled model](constructed-model.png)
+### Assembly
+  1. Add magnets in all the holes, with a little dot of superglue at the bottom of each hole (make sure they're in the right direction!)\
+  2. Write the time that your cat should be fed at on the tiles and they should snap into place on the suitable holes in the top piece\
+  3. Assemble the rest of the pieces! They should snap together and be pretty intuitive where they go.\
+  4. Attach it to any magnetic surface of your choice!
+  ![Assembled model](constructed-model.png)
+    
 
 ## AI DISCLOSURE
 NO AI was used to make this, it was made by hand in Tinkercad.
