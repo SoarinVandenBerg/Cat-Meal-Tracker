@@ -1,2 +1,0 @@
-IMAGE 1: The model editing software with all the seperate parts laid out
-IMAGE 2: The fully constructed tracker
