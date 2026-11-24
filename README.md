@@ -6,6 +6,7 @@ In my experience, cats have a reputation of looking like they haven't been fed w
 
 ## How I made it
 I used Tinkercad to make this 3D model, and no problems arose!
+![Model in tinkercad, deconstructed](tinkercad-pieces.png)
 
 ## How to make the project
 To make this for yourself, you'll need:
@@ -28,6 +29,7 @@ Assembly:
     2. Write the time that your cat should be fed at on the tiles and they should snap into place on the suitable holes in the top piece
     3. Assemble the rest of the pieces! They should snap together and be pretty intuitive where they go.
     4. Attach it to any magnetic surface of your choice!
+    ![Assembled model](constructed-model.png)
 
 ## AI DISCLOSURE
 NO AI was used to make this, it was made by hand in Tinkercad.
