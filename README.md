@@ -30,6 +30,18 @@ I used Tinkercad to make this 3D model, and no problems arose!
   3. Assemble the rest of the pieces! They should snap together and be pretty intuitive where they go.\
   4. Attach it to any magnetic surface of your choice!
   ![Assembled model](constructed-model.png)
+
+### Bill of Materials
+
+| Item | Amount | Link | Note |
+|---|---|---|---|
+| Top Piece (PLA - 43g) | $2.15 | None | Calculated via Printing Legion ($50/kg) |
+| Bottom Piece (PLA - 42g) | $2.10 | None | Calculated via Printing Legion ($50/kg) |
+| Switch Pieces (5x - 10g total) | $0.50 | None | Calculated via Printing Legion ($50/kg) |
+| Tile Pieces (5x - 15g total) | $0.75 | None | Calculated via Printing Legion ($50/kg) |
+| 2x3mm Magnets (48) | $10.00 | None | Pack of 200 |
+| Superglue (1) | $3.00 | None | Any local store |
+| **TOTAL** | **$18.50** | | |
     
 
 ## AI DISCLOSURE
